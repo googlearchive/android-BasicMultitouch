@@ -5,8 +5,12 @@
 ---
 status:       PUBLISHED
 technologies: [Android]
-categories:   [Input]
+categories:   [UI, Views, Input]
 languages:    [Java]
 solutions:    [Mobile]
 github:       android-BasicMultitouch
+level:        INTERMEDIATE
+icon:         screenshots/icon-web.png
+apiRefs:
+    - android:android.view.MotionEvent
 license: apache2
